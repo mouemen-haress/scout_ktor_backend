@@ -19,7 +19,6 @@ fun Application.module() {
     configureRouting()
     install( Authentication){
         jwt{
-
         }
     }
 
